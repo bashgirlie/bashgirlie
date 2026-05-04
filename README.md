@@ -20,7 +20,7 @@ Security-focused engineer with a B.Eng. in Computer & Electrical Engineering (Cy
 | Project | Description |
 |---|---|
 | [butterbot](https://github.com/bashgirlie/butterbot) | Autonomous 4-wheel drive robot — Raspberry Pi, MotorHat, servo-mounted ultrasonic sensor, obstacle avoidance in Python |
-| [arduino-home-security-system](https://github.com/bashgirlie/IoT-home-security-system) | IoT security prototype — Arduino, ultrasonic intrusion detection, flood/light/temp sensors, real-time alerts |
+| [arduino-home-security-system](https://github.com/bashgirlie/arduino-home-security-system) | IoT security prototype — Arduino, ultrasonic intrusion detection, flood/light/temp sensors, real-time alerts |
 
 ### Tools & Automation
 
