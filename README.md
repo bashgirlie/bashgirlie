@@ -1,6 +1,6 @@
 ## Hello, I'm Ashlyn
 
-Security-focused engineer with a B.Eng. in Computer & Electrical Engineering (Cybersecurity concentration). I work in API support at Eagle Eye Networks, where I debug cloud video systems and build tooling for customers integrating with the V3 API. Outside of work I focus on offensive security, hardware prototyping, and Python/Bash automation.
+Computer engineering grad building toward security engineering. Offensive security, automation tooling, hardware hacking. Occasionally breaks things on purpose.
 
 ---
 
