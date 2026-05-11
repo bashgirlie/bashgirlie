@@ -10,6 +10,7 @@ Computer engineering grad building toward security engineering. Offensive securi
 
 | Project | Description |
 |---|---|
+| [memory_analysis](https://github.com/bashgirlie/memory_analysis) | Heap allocation behavior, memory segment layout (stack/heap/.bss/.data), and pointer manipulation in C, documented with annotated GDB session captures — foundation for binary exploitation and reverse engineering |
 | [hackerhouse-pentesting](https://github.com/bashgirlie/hackerhouse-pentesting) | Pentesting a vulnerable mail server — IMAP, POP3, SMTP enumeration, exploitation writeup |
 | [Windows-Privilege-Escalation](https://github.com/bashgirlie/Windows-Privilege-Escalation) | PrivEsc via misconfigured scheduled tasks and saved credentials — full attack chain + defensive countermeasures |
 | [python-netcat](https://github.com/bashgirlie/python-netcat) | NetCat clone built in Python from *Black Hat Python* — TCP client/server, command execution, file transfer |
