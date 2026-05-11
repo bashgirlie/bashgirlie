@@ -12,7 +12,7 @@ Computer engineering grad building toward security engineering. Offensive securi
 |---|---|
 | [hackerhouse-pentesting](https://github.com/bashgirlie/hackerhouse-pentesting) | Pentesting a vulnerable mail server — IMAP, POP3, SMTP enumeration, exploitation writeup |
 | [Windows-Privilege-Escalation](https://github.com/bashgirlie/Windows-Privilege-Escalation) | PrivEsc via misconfigured scheduled tasks and saved credentials — full attack chain + defensive countermeasures |
-| [Python-NetCat---BHP](https://github.com/bashgirlie/Python-NetCat---BHP) | NetCat clone built in Python from *Black Hat Python* — TCP client/server, command execution, file transfer |
+| [python-netcat](https://github.com/bashgirlie/python-netcat) | NetCat clone built in Python from *Black Hat Python* — TCP client/server, command execution, file transfer |
 | [Netsec-challenge-THM](https://github.com/bashgirlie/Netsec-challenge-THM) | TryHackMe network security challenge writeups |
 
 ### Hardware & IoT
