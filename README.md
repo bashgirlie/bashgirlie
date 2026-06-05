@@ -11,6 +11,7 @@ Computer engineering grad building toward security engineering. Offensive securi
 | Project | Description |
 |---------|-------------|
 | [memory_analysis](https://github.com/bashgirlie/memory_analysis) | Heap allocation behavior, memory segment layout (stack/heap/.bss/.data), and pointer manipulation in C, documented with annotated GDB session captures — foundation for binary exploitation and reverse engineering |
+| [HackerBot](https://github.com/bashgirlie/HackerBot) | Project built upon Butterbot. This is a robot designed to aid in physical Pentesting and access allowing the tester to not put themself in immediate danger while gathering information or gaining access. |
 | [hackerhouse-pentesting](https://github.com/bashgirlie/hackerhouse-pentesting) | End-to-end pentest of a vulnerable mail server — IMAP, POP3, SMTP enumeration, exploitation, and post-exploitation to root |
 | [Windows-Privilege-Escalation](https://github.com/bashgirlie/Windows-Privilege-Escalation) | TryHackMe Windows PrivEsc — misconfigured scheduled tasks and saved credentials exploitation with defensive countermeasures |
 | [Linux-PrivEsc](https://github.com/bashgirlie/Linux-PrivEsc) | TryHackMe Linux PrivEsc — enumeration and exploitation paths to root across multiple vectors |
