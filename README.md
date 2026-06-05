@@ -1,4 +1,4 @@
-## Hello, I'm Ashlyn
+## Hello
 
 Computer engineering grad building toward security engineering. Offensive security, automation tooling, hardware hacking. Occasionally breaks things on purpose.
 
