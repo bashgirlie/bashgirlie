@@ -32,6 +32,10 @@ Computer engineering grad building toward security engineering. Offensive securi
 |---------|-------------|
 | [python-file-shredder](https://github.com/bashgirlie/python-file-shredder) | Secure file and directory removal tool written in Python — overwrites contents before unlinking |
 | [EE-CLI-Python-Class-for-Scripting](https://github.com/bashgirlie/EE-CLI-Python-Class-for-Scripting) | Python class wrapping the Eagle Eye Networks CLI for scripted bulk operations and automation |
+| [Convert-Time-Formats-Python](https://github.com/bashgirlie/convert-time-formats) | Convert to or from Slash, ISO and epoch timestamp formats |
+| [CSV-Parser-Python](https://github.com/bashgirlie/csv-reader) | A simple CSV reader that allows you to parse by specified column names and group by a key |
+| [CSV-Parser-Python](https://github.com/bashgirlie/Json-Parser) | Recursive Python JSON Parser that takes args as input and searches for a keyword |
+
 
 ---
 
